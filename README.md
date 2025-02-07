@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate developer and tech enthusiast ex
 
 ## 🔗 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/zaibiza)
-- [Twitter]([https://twitter.com/zaibiza](https://x.com/ZAIBIZAKAKZANET))
+- [Twitter]](https://x.com/ZAIBIZAKAKZANET)
 - [Portfolio](https://www.zaibiza.com)
 
 ## 📂 My Projects:
